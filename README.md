@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachit Bhatia</h1>
 <h3 align="center">Full Stack MERN Developer | CSE@HBTU'24</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitb05&label=Profile%20views&color=0e75b6&style=flat" alt="rachitb05" /> </p>
+</br>
 
 - 🌱 I’m currently learning **MERN Stack | Data Structures & Algorithms**
 
